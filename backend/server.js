@@ -16,7 +16,9 @@ console.log(PORT,"PORT")
 const allowedOrigins = [
     
     // 'https://task-manager-mern-app-navy.vercel.app'
-    'http://localhost:5173'
+    // 'http://localhost:5173'
+    'https://mern-dup.vercel.app/'
+    
 ]
 
 
